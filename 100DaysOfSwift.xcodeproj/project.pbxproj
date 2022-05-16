@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		D9E080512832C1AE0046C905 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E080502832C1AE0046C905 /* main.swift */; };
+		D9E080582832C2050046C905 /* DaysOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E080572832C2050046C905 /* DaysOne.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		D9E0804D2832C1AE0046C905 /* 100DaysOfSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 100DaysOfSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9E080502832C1AE0046C905 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D9E080572832C2050046C905 /* DaysOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DaysOne.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				D9E080502832C1AE0046C905 /* main.swift */,
+				D9E080572832C2050046C905 /* DaysOne.swift */,
 			);
 			path = 100DaysOfSwift;
 			sourceTree = "<group>";
@@ -120,6 +123,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9E080582832C2050046C905 /* DaysOne.swift in Sources */,
 				D9E080512832C1AE0046C905 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
