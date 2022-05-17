@@ -7,5 +7,6 @@
 
 import Foundation
 
-DaysOne().yazdir()
+//DaysOne().yazdir()
+DaysTwo().yazdir()
 
